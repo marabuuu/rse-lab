@@ -1,0 +1,6 @@
+jupyterlab
+stackview
+pandas
+scikit-image
+matplotlib
+seaborn
