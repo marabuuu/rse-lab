@@ -16,3 +16,6 @@ umap-learn # 0.5.7
 stackview # 0.11.2 
 matplotlib # 3.10.1  
 seaborn # 0.13.2 
+
+# quality assurance 
+scikit-learn # 1.6.1
