@@ -1,0 +1,21 @@
+# general
+numpy # 1.26.4
+pandas # 2.2.0 
+jupyterlab # 4.0.9
+
+# image processing
+scikit-image # 0.24.0 
+tensorflow # 2.19.0   
+stardist # 0.9.1   
+
+#clustering
+scikit-learn # 1.6.1  
+umap-learn # 0.5.7
+
+# visualization
+stackview # 0.11.2 
+matplotlib # 3.10.1  
+seaborn # 0.13.2 
+
+# quality assurance 
+scikit-learn # 1.6.1
