@@ -1,6 +1,6 @@
 # Mitotic phase classification from microscopy images
 
-This repository contains a workflow for classifying mitotic phases of nuclei in microscopy images using image processing, feature extraction and unsupervised learning. It is part of a university module called research software engineering within my master studies computational modeling and simulation.
+This repository contains a workflow for classifying mitotic phases of nuclei in a microscopy image using image processing, feature extraction and unsupervised learning. It is part of a university module called research software engineering within my master studies computational modeling and simulation.
 
 ## Overview
 
