@@ -31,8 +31,8 @@ Automatically assign a mitotic phase (prophase, metaphase, anaphase, or telophas
 - `data/`: Folder for annotation TIFF image
 - `README.md`: This file
 - `LICENSE-CC-BY`: License of this repository (CC-BY 4.0 International License)
-- `requirements.txt`: includes all necessary libraries used within the analysis pipeline
-
+- `requirements.txt`: Includes all necessary libraries used within the analysis pipeline
+- `.gitignore`: Defines which files should be ignored by git
 ## Status
 
 This project serves as a prototype for evaluating unsupervised classification of mitotic phases. 
